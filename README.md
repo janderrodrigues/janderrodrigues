@@ -1,7 +1,8 @@
 ### Olá! Eu sou Jander Rodrigues 👋
 
-👩‍💻 Trabalho na resolução de problemas, atuando em back-end e front-end
-📚 Estudante no Alura, e adquirindo mais conhecimentos em outras linguagens de programação
+👩‍💻 Trabalho na resolução de problemas, atuando em back-end e front-end.
+<br>
+📚 Estudante no Alura, e adquirindo mais conhecimentos em outras linguagens de programação.
 <div>
 <a href = "https://github.com/janderrodrigues">
 <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api?username=janderrodrigues&show_icons=true&theme=dark"
